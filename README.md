@@ -1,6 +1,6 @@
 # Data Mining for Vehicle Product Survey 
 
-Description : This repository is dedicated for a project titled "Data Mining for Vehicle Product Survey" from the module (MA4829) Machine Intelligence. The graph plotted from Rstudio thoruhg the `Data_Analysis.R` is downloaded and placed inside the figma mindmap below. 
+Description : This repository is dedicated for a project titled "Data Mining for Vehicle Product Survey" from the module (MA4829) Machine Intelligence. The graph plotted from Rstudio thoruhg the `Data_Analysis.R` is downloaded and placed inside the figma mindmap below. Please refer to the mindmap below to view my analysis.
 
 ### Figma mindmap that I have created for this project 
 
