@@ -69,10 +69,55 @@ for (i in 1: length(colnames(human.dt)))
   human.dt.plot[[variable.names]] <- temp
   
 }
-col_vector
+
+#check the columns that are available for the count plot
+colnames(human.dt)
+# ========== count plot of age group ==========
+index <- 1 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of gender==========
+index <- 2 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of do u own a car==========
+index <- 3 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of martial status ==========
+index <- 4 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of customise vehicle preference==========
 index <- 5 #graph is printed by changing this index
 colname_index <- colnames(human.dt)[index]
 human.dt.plot[[colname_index]]
+
+# ========== count plot of spending behaviour ==========
+index <- 6 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of willingnes to spend on car ==========
+index <- 7 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of willingness to spend on design ==========
+index <- 8 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+# ========== count plot of design experience ==========
+index <- 9 #graph is printed by changing this index
+colname_index <- colnames(human.dt)[index]
+human.dt.plot[[colname_index]]
+
+
 # ============ graph plotting (figure 2,3,4,5,7,10,11,12,13) =============== end
 # xxxxx
 # xxxxx
