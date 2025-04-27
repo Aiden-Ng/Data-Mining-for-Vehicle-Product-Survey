@@ -7,7 +7,7 @@ Description : This repository is dedicated for a project titled "Data Mining for
 
 ### Figma mindmap to consolidate my analysis 
 
-All the images you see in the figma mindmap below are generated from `Data_Analysis.R`.
+My analysis is carried out using figma, and I enjoy using mindmap to connect the dots together. All the images you see in the figma mindmap below are generated from `Data_Analysis.R`.
 
 https://www.figma.com/board/JKtEROQrTCi1ukKFlBPvMY/MA4830-Machine-Intelligence?node-id=0-1&t=KGWMn2yZkLVgDBJR-1
 
